@@ -17,3 +17,9 @@
 <p>git remote add origin https://github.com/2tkngu/Heroku.git</p>
 <p>git push origin master</p>
 <p>git push heroku master</p>
+
+<h2>Note: change data</h2>
+<p>git add .</p>
+<p>git commit -m "first"</p>
+<p>git push origin master</p>
+<p>git push heroku master</p>
