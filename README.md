@@ -14,5 +14,6 @@
 <p>git add .</p>
 <p>git commit -m "first'</p>
 <p>git branch -M master</p>
-<p>git remote add origin https://github.com/nguyenquangsy/heroku.git</p>
+<p>git remote add origin https://github.com/2tkngu/Heroku.git</p>
 <p>git push origin master</p>
+<p>git push heroku master</p>
